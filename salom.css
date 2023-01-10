@@ -1,0 +1,262 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #353535;
+}
+.ul{
+    flex-grow: auto auto auto;
+    margin-left: 200px;
+    padding: 10px;
+    list-style-type: none;
+    margin-top: -427px;
+}
+.l1{
+    background: red;
+    width: 135px;
+    height: 25px;
+    margin-top: 3px;
+    text-align: center;
+    color: white;
+    padding: 25px;
+}
+.l2{
+    background: red;
+    width: 135px;
+    height: 25px;
+    margin-top: 3px;
+    text-align: center;
+    color: white;
+    padding: 25px;
+}
+.l3{
+    background: red;
+    width: 135px;
+    height: 25px;
+    margin-top: 3px;
+    text-align: center;
+    color: white;
+    padding: 25px;
+}
+.l4{
+    background: red;
+    width: 135px;
+    height: 25px;
+    margin-top: 3px;
+    text-align: center;
+    color: white;
+    padding: 25px;
+}
+.l5{
+    background: red;
+    width: 135px;
+    height: 25px;
+    margin-top: 3px;
+    text-align: center;
+    color: white;
+    padding: 25px;
+}
+.l6{
+    background: red;
+    width: 135px;
+    height: 25px;
+    margin-top: 3px;
+    text-align: center;
+    color: white;
+    padding: 25px;
+}
+.f{
+    border: 2px solid white;
+    color: white;
+    border-radius: 50%;
+    width: 70px;
+    height: 60px;
+    padding-left: 30px;
+    padding-top: 20px;
+    display: inline;
+    position: absolute;
+    margin-top: -1%;
+    margin-left: 125px;
+  
+}
+.f1{
+    position: relative;
+    margin-left: 903px;
+    color: white;
+}
+.f2{
+    margin-top: 3%;
+  margin-left: 80px;
+  margin-right: 180px;
+}
+.tort{
+    width: auto;
+    height: 950px;
+}
+.but{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 400px;
+}
+.button{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 830px; 
+}
+.bir{
+   display: flex;
+   color: white;
+   padding-left: 15%;
+   margin-top: 50px;
+}
+.ikki{
+    background-color: #3C80EDFF;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 5px;
+}
+.uch{
+    background-color: #5CA516FF;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 5px;
+}
+.tort{
+    background-color: #D1AC27FF;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 5px;
+}
+.besh{
+    background-color: #5132AAFF;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 5px;
+}
+.olti{
+    background-color: #D24726FF;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 5px;
+}
+.yetti{
+    background-color: #AB328FFF;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 5px;
+}
+.img{
+    margin-top: 10px;
+    text-align: center;
+    background-image: url(./tm-img-07.jpg);
+    height: 300px;
+    width: 710px;
+    margin-left: 420px;
+    background-repeat: no-repeat;
+}
+.button{
+    margin-left: 20px;
+    background-color: yellowgreen;
+    border: 0;
+    border-radius: 0;
+    color: #fff;
+}
+.h1{
+    text-align: center;
+    padding: 100px;
+}
+.pl{
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    width: 327px;
+    height: 40px;
+    background-color: rgb(219, 219, 5);
+    margin-left: 420px;
+    color: #fff;
+}
+.pL{
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    margin-top: -60px;
+    width: 330px;
+    height: 40px;
+    background-color: rgb(0, 26, 255);
+    margin-left: 780px;
+}
+.p2{
+    color: white;
+    margin-left: 550px;
+}
+.c{
+    width: 230px;
+    height: 200px;
+    background-color: #5BA618FF;
+    margin-left: 420px;
+    margin-top: -50px;
+    text-align: center;
+    color: white;
+}
+.c1{
+    width: 230px;
+    height: 200px;
+    background-color: #5132AAFF;
+    margin-left: 660px;
+    margin-top: -200px;
+    text-align: center;
+    color: white;
+}
+.c2{
+    width: 230px;
+    height: 200px;
+    background-color: #D24726FF;
+    margin-left: 900px;
+    margin-top: -200px;
+    text-align: center;
+    color: white;
+}
+.foter{
+    margin-left: 210px;
+    width: 920px;
+    height: 60px;
+    background-color: #252525;
+}
+.imglar{
+    margin-top: 50px;
+    width: 300px;
+    height: 50px;
+    margin-top: -1px;
+    background-color: #252525;
+}
+.fl{
+    width: 300px;
+    height: 50px;
+    margin-top: -40px;
+    margin-left: 400px;
+    color: #fff;
+}
+.fl1{
+    width: 250px;
+    height: 45px;
+    margin-top: -50px;
+    margin-left: 720px;
+    color: #fff;
+}
